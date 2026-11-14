@@ -1,0 +1,9 @@
+Calculo 1,7,1,4
+Calculo 2,7,2,5,0,5
+Fisica,6,2,5,0
+Mecanica,6,3,6,1
+Dinamica,6,3,6,3
+Vibraciones,6,4,7,4,6
+Control,6,4,7,5
+Sistemas,6,5,7,6
+Materia Rara,4,5,3,8

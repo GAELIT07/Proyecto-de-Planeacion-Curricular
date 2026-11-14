@@ -1,0 +1,5 @@
+Fundamentos,4,1,2
+Algoritmos,6,2,5,0,3
+Estructuras,6,2,5,1
+Analisis,6,3,6,2
+Proyecto,6,4,6,3
